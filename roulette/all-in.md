@@ -1,2 +1,2 @@
 Dealer Ask:
-[Red]() or [Black]()
+[Red](lose-roulette) or [Black]()
