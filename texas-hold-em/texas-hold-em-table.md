@@ -1,3 +1,5 @@
 You are playing texas holdem
+
 would you like to...
-(go all in)[you-win-1.md] or (bet 10%)[you-lost-1.md]
+
+[go all in](you-win-1.md) or [bet 10%](you-lost-1.md)
