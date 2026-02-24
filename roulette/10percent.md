@@ -1,1 +1,2 @@
-Which of the following
+Dealer Ask:
+[Red]() or [Black]()
