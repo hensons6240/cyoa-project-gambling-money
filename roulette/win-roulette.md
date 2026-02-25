@@ -1,3 +1,3 @@
 You guessed correctly and won!<br>
-[Continue](roulette-table.md)? <br>
+[Continue?](roulette-table.md) <br>
 [Leave?](../README.md)
