@@ -1,1 +1,12 @@
+* {
+  font-family: "Science Gothic", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  text-align: left;
 
+}
+
+body {
+    background-color: #A10D26;
+}
