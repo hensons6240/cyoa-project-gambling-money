@@ -1,2 +1,2 @@
 Dealer Ask:
-[Red](win-roulette.md) or [Black](lose-roulette.md)
+[Red](lose-roulette.md) or [Black](win-roulette.md)
